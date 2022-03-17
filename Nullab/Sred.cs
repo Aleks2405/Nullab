@@ -69,7 +69,7 @@ namespace Nullab
 
             Console.WriteLine($" {Countt( one )} количество заполненных");
             Console.WriteLine($" {Counttt(one)} Сумма");
-            Console.WriteLine($" {Countttt(one)} sred");
+            Console.WriteLine($" {Countttt(one)} Среднее");
 
             //Optional <int?> optional = new Optional<int?>(Countt(one));
 
